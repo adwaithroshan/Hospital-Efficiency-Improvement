@@ -1,33 +1,34 @@
-# Hospital-Efficiency-Improvement
-This project focused on reducing patient wait times, eliminating double bookings, and improving satisfaction across departments at HealthFirst Care. I applied business analysis frameworks (BRD, RTM, stakeholder mapping, process mapping) and data visualization techniques.
+# Healthcare Operations Analysis 🏥
 
-## Business Objectives
-- Reduce patient wait times by 20% within 12 months  
-- Eliminate double bookings  
-- Improve patient satisfaction and communication  
-- Optimize resource utilization  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F78C00?style=for-the-badge&logo=lucidchart&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-## My Contributions
-- Conducted requirements gathering (BRD, RTM)  
-- Led stakeholder analysis and engagement planning  
-- Designed BPMN workflows and swimlane diagrams  
-- Built dashboards for patient feedback and resource utilization  
-- Proposed risk mitigation strategies  
+**Goal:** Reduce patient wait times and eliminate double-booking errors at HealthFirst Care.
+**Role:** Business Analyst
+**Tools:** Excel (Pivot Tables), Lucidchart (BPMN), Risk Management Frameworks.
 
-## Tools Used
-- Excel (pivot tables, charts)  
-- Lucidchart / Draw.io (BPMN, Swimlane diagrams)  
-- PowerPoint (presentation and visualization)  
+## 📊 Project Overview
+HealthFirst Care faced operational bottlenecks leading to long wait times and patient dissatisfaction. This project utilized data analysis and process mapping to identify root causes and propose a digital transformation strategy.
 
-## Key Outcomes
-- Identified peak congestion periods (11AM–1PM, 3–6PM)  
-- Recommended automation of scheduling and self-check-in kiosks  
-- Proposed staff reallocation and training for adoption  
-- Designed risk mitigation strategies for scheduling conflicts and data security  
+## 🔍 Key Findings (Data Analysis)
+Using Excel Pivot Tables to analyze appointment datasets, I uncovered the following:
+* **Peak Congestion:** The highest volume of patients occurs between **11:00 AM – 1:00 PM** and **3:00 PM – 6:00 PM**.
+* **Departmental Stress:** Cardiology and Pediatrics showed the highest demand and longest wait times.
+* **Satisfaction Gap:** While 86.4% of feedback was positive, Oncology and General Medicine showed specific clusters of low satisfaction.
 
-## Repository Structure
-- `Documents/` → BRD, RTM, stakeholder analysis  
-- `Data_Analysis/` → Pivot tables, charts, heatmaps  
-- `Process_Maps/` → BPMN workflows, swimlane diagrams  
-- `Risk_Management/` → Risk register, mitigation strategies  
-- `Presentation/` → Final presentation
+## 🔄 Process Improvement (BPMN)
+I mapped the **"As-Is"** manual workflows against a proposed **"To-Be"** automated system:
+* **Identified Bottleneck:** Manual appointment booking required admin confirmation, causing delays and errors.
+* **Proposed Solution:** AI-driven scheduling with real-time conflict alerts and self-check-in kiosks.
+* **Projected Impact:** Targeted a **20% reduction** in average patient wait times within 12 months.
+
+## ⚠️ Risk Management
+Developed a Risk Register to mitigate deployment threats:
+* **High Risk:** Double bookings during peak hours.
+* **Mitigation:** Implemented automated conflict detection and "Must Have" requirements for real-time SMS/Email updates.
+
+## 📂 Deliverables
+* [Business Requirement Document (BRD)](./Documents)
+* [Process Maps (BPMN)](./Process_Maps)
+* [Data Analysis Workbook](./Data_Analysis)
