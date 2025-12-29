@@ -17,7 +17,7 @@ Using Excel Pivot Tables to analyze appointment datasets, I uncovered the follow
 * **Departmental Stress:** Cardiology and Pediatrics showed the highest demand and longest wait times.
 * **Satisfaction Gap:** While 86.4% of feedback was positive, Oncology and General Medicine showed specific clusters of low satisfaction.
 
-![Dashboard Screenshot](path/to/your/dashboard_image.png)
+![Dashboard Screenshot](./dashboard_image.png)
 
 ## 🔄 Process Improvement (BPMN)
 I mapped the **"As-Is"** manual workflows against a proposed **"To-Be"** automated system:
